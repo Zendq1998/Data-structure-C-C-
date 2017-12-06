@@ -11,7 +11,8 @@
 #include <stdlib.h>
 using namespace std;
 typedef char TElemType; //二叉树中的结点的数据为字符型
-#include "bitree.h"     //算法都在这里哦
+#include "bitree.h"     //算法都在这里
+
 
 int main() {
     BiTree BT;          //声明一个二叉树根结点指针
